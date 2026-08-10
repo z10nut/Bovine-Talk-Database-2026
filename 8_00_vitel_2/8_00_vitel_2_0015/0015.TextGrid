@@ -1,0 +1,1466 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 1800 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "8_00_vitel_2_0015" 
+        xmin = 0 
+        xmax = 1800 
+        intervals: size = 363 
+        intervals [1]:
+            xmin = 0 
+            xmax = 8.517789355196873 
+            text = "" 
+        intervals [2]:
+            xmin = 8.517789355196873 
+            xmax = 9.360725081890562 
+            text = "LFC" 
+        intervals [3]:
+            xmin = 9.360725081890562 
+            xmax = 12.030021549753908 
+            text = "" 
+        intervals [4]:
+            xmin = 12.030021549753908 
+            xmax = 13.14076498128257 
+            text = "HFC" 
+        intervals [5]:
+            xmin = 13.14076498128257 
+            xmax = 20.946221769701797 
+            text = "" 
+        intervals [6]:
+            xmin = 20.946221769701797 
+            xmax = 23.11063485959757 
+            text = "HFC" 
+        intervals [7]:
+            xmin = 23.11063485959757 
+            xmax = 26.16401587482629 
+            text = "" 
+        intervals [8]:
+            xmin = 26.16401587482629 
+            xmax = 27.033293342979157 
+            text = "HFC" 
+        intervals [9]:
+            xmin = 27.033293342979157 
+            xmax = 27.28793017708454 
+            text = "" 
+        intervals [10]:
+            xmin = 27.28793017708454 
+            xmax = 29.1142909182542 
+            text = "HFC" 
+        intervals [11]:
+            xmin = 29.1142909182542 
+            xmax = 36.02634559182106 
+            text = "" 
+        intervals [12]:
+            xmin = 36.02634559182106 
+            xmax = 37.06245408921538 
+            text = "HFC" 
+        intervals [13]:
+            xmin = 37.06245408921538 
+            xmax = 37.6244112403445 
+            text = "" 
+        intervals [14]:
+            xmin = 37.6244112403445 
+            xmax = 38.818570186493886 
+            text = "HFC" 
+        intervals [15]:
+            xmin = 38.818570186493886 
+            xmax = 39.7405311375651 
+            text = "" 
+        intervals [16]:
+            xmin = 39.7405311375651 
+            xmax = 41.009325017848816 
+            text = "HFC" 
+        intervals [17]:
+            xmin = 41.009325017848816 
+            xmax = 41.168418165069475 
+            text = "" 
+        intervals [18]:
+            xmin = 41.168418165069475 
+            xmax = 42.50306639900114 
+            text = "HFC" 
+        intervals [19]:
+            xmin = 42.50306639900114 
+            xmax = 42.630384816053834 
+            text = "" 
+        intervals [20]:
+            xmin = 42.630384816053834 
+            xmax = 44.01771653290385 
+            text = "HFC" 
+        intervals [21]:
+            xmin = 44.01771653290385 
+            xmax = 46.0679820764765 
+            text = "" 
+        intervals [22]:
+            xmin = 46.0679820764765 
+            xmax = 47.50799727624487 
+            text = "HFC" 
+        intervals [23]:
+            xmin = 47.50799727624487 
+            xmax = 59.22441974048926 
+            text = "" 
+        intervals [24]:
+            xmin = 59.22441974048926 
+            xmax = 60.41857868663865 
+            text = "HFC" 
+        intervals [25]:
+            xmin = 60.41857868663865 
+            xmax = 62.44689277899531 
+            text = "" 
+        intervals [26]:
+            xmin = 62.44689277899531 
+            xmax = 63.32934111787776 
+            text = "HFC" 
+        intervals [27]:
+            xmin = 63.32934111787776 
+            xmax = 66.45479240632596 
+            text = "" 
+        intervals [28]:
+            xmin = 66.45479240632596 
+            xmax = 67.55236496712502 
+            text = "HFC" 
+        intervals [29]:
+            xmin = 67.55236496712502 
+            xmax = 67.5830969988274 
+            text = "" 
+        intervals [30]:
+            xmin = 67.5830969988274 
+            xmax = 68.67188897914006 
+            text = "HFC" 
+        intervals [31]:
+            xmin = 68.67188897914006 
+            xmax = 77.72783855528371 
+            text = "" 
+        intervals [32]:
+            xmin = 77.72783855528371 
+            xmax = 78.61467718440936 
+            text = "HFC" 
+        intervals [33]:
+            xmin = 78.61467718440936 
+            xmax = 79.51029639402138 
+            text = "" 
+        intervals [34]:
+            xmin = 79.51029639402138 
+            xmax = 81.01616594743768 
+            text = "HFC" 
+        intervals [35]:
+            xmin = 81.01616594743768 
+            xmax = 93.11419609668498 
+            text = "" 
+        intervals [36]:
+            xmin = 93.11419609668498 
+            xmax = 94.4883569428054 
+            text = "HFC" 
+        intervals [37]:
+            xmin = 94.4883569428054 
+            xmax = 96.77130786926745 
+            text = "" 
+        intervals [38]:
+            xmin = 96.77130786926745 
+            xmax = 97.99619884711919 
+            text = "HFC" 
+        intervals [39]:
+            xmin = 97.99619884711919 
+            xmax = 99.64725164544004 
+            text = "" 
+        intervals [40]:
+            xmin = 99.64725164544004 
+            xmax = 101.69751718901269 
+            text = "HFC" 
+        intervals [41]:
+            xmin = 101.69751718901269 
+            xmax = 111.75775753310651 
+            text = "" 
+        intervals [42]:
+            xmin = 111.75775753310651 
+            xmax = 113.06167373533579 
+            text = "HFC" 
+        intervals [43]:
+            xmin = 113.06167373533579 
+            xmax = 116.15678445751298 
+            text = "" 
+        intervals [44]:
+            xmin = 116.15678445751298 
+            xmax = 117.08313569882739 
+            text = "HFC" 
+        intervals [45]:
+            xmin = 117.08313569882739 
+            xmax = 117.71533749384764 
+            text = "" 
+        intervals [46]:
+            xmin = 117.71533749384764 
+            xmax = 119.08949833996806 
+            text = "HFC" 
+        intervals [47]:
+            xmin = 119.08949833996806 
+            xmax = 124.18727654535319 
+            text = "" 
+        intervals [48]:
+            xmin = 124.18727654535319 
+            xmax = 124.95557733791253 
+            text = "HFC" 
+        intervals [49]:
+            xmin = 124.95557733791253 
+            xmax = 127.45365248629118 
+            text = "" 
+        intervals [50]:
+            xmin = 127.45365248629118 
+            xmax = 128.75317839827727 
+            text = "HFC" 
+        intervals [51]:
+            xmin = 128.75317839827727 
+            xmax = 129.30922329671398 
+            text = "" 
+        intervals [52]:
+            xmin = 129.30922329671398 
+            xmax = 130.32338034289234 
+            text = "HFC" 
+        intervals [53]:
+            xmin = 130.32338034289234 
+            xmax = 131.28924419639552 
+            text = "" 
+        intervals [54]:
+            xmin = 131.28924419639552 
+            xmax = 132.5097448840041 
+            text = "HFC" 
+        intervals [55]:
+            xmin = 132.5097448840041 
+            xmax = 135.12740056741458 
+            text = "" 
+        intervals [56]:
+            xmin = 135.12740056741458 
+            xmax = 136.9142486963955 
+            text = "HFC" 
+        intervals [57]:
+            xmin = 136.9142486963955 
+            xmax = 144.44424769651133 
+            text = "" 
+        intervals [58]:
+            xmin = 144.44424769651133 
+            xmax = 145.82718912311816 
+            text = "HFC" 
+        intervals [59]:
+            xmin = 145.82718912311816 
+            xmax = 150.56461596240592 
+            text = "" 
+        intervals [60]:
+            xmin = 150.56461596240592 
+            xmax = 152.01780203290392 
+            text = "HFC" 
+        intervals [61]:
+            xmin = 152.01780203290392 
+            xmax = 162.06852276492475 
+            text = "" 
+        intervals [62]:
+            xmin = 162.06852276492475 
+            xmax = 162.8587750087001 
+            text = "HFC" 
+        intervals [63]:
+            xmin = 162.8587750087001 
+            xmax = 163.36365838666765 
+            text = "" 
+        intervals [64]:
+            xmin = 163.36365838666765 
+            xmax = 164.5183047206283 
+            text = "HFC" 
+        intervals [65]:
+            xmin = 164.5183047206283 
+            xmax = 165.29977638391725 
+            text = "" 
+        intervals [66]:
+            xmin = 165.29977638391725 
+            xmax = 166.85393913000874 
+            text = "HFC" 
+        intervals [67]:
+            xmin = 166.85393913000874 
+            xmax = 174.416451891879 
+            text = "" 
+        intervals [68]:
+            xmin = 174.416451891879 
+            xmax = 175.7642709965403 
+            text = "HFC" 
+        intervals [69]:
+            xmin = 175.7642709965403 
+            xmax = 176.66428049639552 
+            text = "" 
+        intervals [70]:
+            xmin = 176.66428049639552 
+            xmax = 178.43356746440367 
+            text = "HFC" 
+        intervals [71]:
+            xmin = 178.43356746440367 
+            xmax = 178.508202398538 
+            text = "" 
+        intervals [72]:
+            xmin = 178.508202398538 
+            xmax = 179.82089918125368 
+            text = "HFC" 
+        intervals [73]:
+            xmin = 179.82089918125368 
+            xmax = 183.57450954063407 
+            text = "" 
+        intervals [74]:
+            xmin = 183.57450954063407 
+            xmax = 186.076974979256 
+            text = "HFC" 
+        intervals [75]:
+            xmin = 186.076974979256 
+            xmax = 193.70721162337875 
+            text = "" 
+        intervals [76]:
+            xmin = 193.70721162337875 
+            xmax = 194.7038075085843 
+            text = "HFC" 
+        intervals [77]:
+            xmin = 194.7038075085843 
+            xmax = 198.91439951868847 
+            text = "" 
+        intervals [78]:
+            xmin = 198.91439951868847 
+            xmax = 199.89782453316442 
+            text = "HFC" 
+        intervals [79]:
+            xmin = 199.89782453316442 
+            xmax = 201.57930569630864 
+            text = "" 
+        intervals [80]:
+            xmin = 201.57930569630864 
+            xmax = 202.4485831644615 
+            text = "HFC" 
+        intervals [81]:
+            xmin = 202.4485831644615 
+            xmax = 203.25079065402522 
+            text = "" 
+        intervals [82]:
+            xmin = 203.25079065402522 
+            xmax = 204.52260285885114 
+            text = "HFC" 
+        intervals [83]:
+            xmin = 204.52260285885114 
+            xmax = 212.66237145821057 
+            text = "" 
+        intervals [84]:
+            xmin = 212.66237145821057 
+            xmax = 214.65858155316388 
+            text = "HFC" 
+        intervals [85]:
+            xmin = 214.65858155316388 
+            xmax = 224.73004727248207 
+            text = "" 
+        intervals [86]:
+            xmin = 224.73004727248207 
+            xmax = 226.27350868610577 
+            text = "HFC" 
+        intervals [87]:
+            xmin = 226.27350868610577 
+            xmax = 228.88294291883415 
+            text = "" 
+        intervals [88]:
+            xmin = 228.88294291883415 
+            xmax = 229.9036854003773 
+            text = "HFC" 
+        intervals [89]:
+            xmin = 229.9036854003773 
+            xmax = 231.62824628653283 
+            text = "" 
+        intervals [90]:
+            xmin = 231.62824628653283 
+            xmax = 232.9453333594917 
+            text = "HFC" 
+        intervals [91]:
+            xmin = 232.9453333594917 
+            xmax = 234.25825910477616 
+            text = "" 
+        intervals [92]:
+            xmin = 234.25825910477616 
+            xmax = 236.05279024168266 
+            text = "HFC" 
+        intervals [93]:
+            xmin = 236.05279024168266 
+            xmax = 238.72086487548583 
+            text = "" 
+        intervals [94]:
+            xmin = 238.72086487548583 
+            xmax = 239.69221659179303 
+            text = "HFC" 
+        intervals [95]:
+            xmin = 239.69221659179303 
+            xmax = 240.5524390863193 
+            text = "" 
+        intervals [96]:
+            xmin = 240.5524390863193 
+            xmax = 242.87792094951234 
+            text = "HFC" 
+        intervals [97]:
+            xmin = 242.87792094951234 
+            xmax = 243.4565066642181 
+            text = "" 
+        intervals [98]:
+            xmin = 243.4565066642181 
+            xmax = 245.03289525466576 
+            text = "HFC" 
+        intervals [99]:
+            xmin = 245.03289525466576 
+            xmax = 248.74983024512068 
+            text = "" 
+        intervals [100]:
+            xmin = 248.74983024512068 
+            xmax = 250.43734805734925 
+            text = "HFC" 
+        intervals [101]:
+            xmin = 250.43734805734925 
+            xmax = 254.40465936647453 
+            text = "" 
+        intervals [102]:
+            xmin = 254.40465936647453 
+            xmax = 255.77936899887538 
+            text = "HFC" 
+        intervals [103]:
+            xmin = 255.77936899887538 
+            xmax = 265.0187746293473 
+            text = "" 
+        intervals [104]:
+            xmin = 265.0187746293473 
+            xmax = 266.4511068211901 
+            text = "HFC" 
+        intervals [105]:
+            xmin = 266.4511068211901 
+            xmax = 272.88004903492777 
+            text = "" 
+        intervals [106]:
+            xmin = 272.88004903492777 
+            xmax = 274.8886068211901 
+            text = "HFC" 
+        intervals [107]:
+            xmin = 274.8886068211901 
+            xmax = 278.9430453740907 
+            text = "" 
+        intervals [108]:
+            xmin = 278.9430453740907 
+            xmax = 279.77034069179297 
+            text = "HFC" 
+        intervals [109]:
+            xmin = 279.77034069179297 
+            xmax = 280.7375765109972 
+            text = "" 
+        intervals [110]:
+            xmin = 280.7375765109972 
+            xmax = 281.34672928224063 
+            text = "HFC" 
+        intervals [111]:
+            xmin = 281.34672928224063 
+            xmax = 281.51751674672926 
+            text = "" 
+        intervals [112]:
+            xmin = 281.51751674672926 
+            xmax = 284.18050217236805 
+            text = "HFC" 
+        intervals [113]:
+            xmin = 284.18050217236805 
+            xmax = 294.7592419769877 
+            text = "" 
+        intervals [114]:
+            xmin = 294.7592419769877 
+            xmax = 295.99812700498967 
+            text = "HFC" 
+        intervals [115]:
+            xmin = 295.99812700498967 
+            xmax = 296.36855774425936 
+            text = "" 
+        intervals [116]:
+            xmin = 296.36855774425936 
+            xmax = 297.18350537065265 
+            text = "HFC" 
+        intervals [117]:
+            xmin = 297.18350537065265 
+            xmax = 300.52658712934726 
+            text = "" 
+        intervals [118]:
+            xmin = 300.52658712934726 
+            xmax = 301.6955019065983 
+            text = "HFC" 
+        intervals [119]:
+            xmin = 301.6955019065983 
+            xmax = 302.9508505230122 
+            text = "" 
+        intervals [120]:
+            xmin = 302.9508505230122 
+            xmax = 304.6507160265498 
+            text = "HFC" 
+        intervals [121]:
+            xmin = 304.6507160265498 
+            xmax = 305.32119375617486 
+            text = "" 
+        intervals [122]:
+            xmin = 305.32119375617486 
+            xmax = 306.79468491904765 
+            text = "HFC" 
+        intervals [123]:
+            xmin = 306.79468491904765 
+            xmax = 309.0748919141077 
+            text = "" 
+        intervals [124]:
+            xmin = 309.0748919141077 
+            xmax = 310.32612463341866 
+            text = "HFC" 
+        intervals [125]:
+            xmin = 310.32612463341866 
+            xmax = 311.24905889555134 
+            text = "" 
+        intervals [126]:
+            xmin = 311.24905889555134 
+            xmax = 313.28231206443166 
+            text = "HFC" 
+        intervals [127]:
+            xmin = 313.28231206443166 
+            xmax = 313.3934412862125 
+            text = "" 
+        intervals [128]:
+            xmin = 313.3934412862125 
+            xmax = 315.25382677676697 
+            text = "HFC" 
+        intervals [129]:
+            xmin = 315.25382677676697 
+            xmax = 322.9806188566019 
+            text = "" 
+        intervals [130]:
+            xmin = 322.9806188566019 
+            xmax = 326.3186114071321 
+            text = "HFC" 
+        intervals [131]:
+            xmin = 326.3186114071321 
+            xmax = 326.9260084015589 
+            text = "" 
+        intervals [132]:
+            xmin = 326.9260084015589 
+            xmax = 328.33776110788665 
+            text = "HFC" 
+        intervals [133]:
+            xmin = 328.33776110788665 
+            xmax = 328.7699303037013 
+            text = "" 
+        intervals [134]:
+            xmin = 328.7699303037013 
+            xmax = 330.0458584056302 
+            text = "HFC" 
+        intervals [135]:
+            xmin = 330.0458584056302 
+            xmax = 330.9060809001565 
+            text = "" 
+        intervals [136]:
+            xmin = 330.9060809001565 
+            xmax = 331.7786510859918 
+            text = "HFC" 
+        intervals [137]:
+            xmin = 331.7786510859918 
+            xmax = 339.5493303247349 
+            text = "" 
+        intervals [138]:
+            xmin = 339.5493303247349 
+            xmax = 341.4220635065983 
+            text = "HFC" 
+        intervals [139]:
+            xmin = 341.4220635065983 
+            xmax = 341.72252399511706 
+            text = "" 
+        intervals [140]:
+            xmin = 341.72252399511706 
+            xmax = 342.8297003158231 
+            text = "HFC" 
+        intervals [141]:
+            xmin = 342.8297003158231 
+            xmax = 344.470187483102 
+            text = "" 
+        intervals [142]:
+            xmin = 344.470187483102 
+            xmax = 345.33864177183426 
+            text = "HFC" 
+        intervals [143]:
+            xmin = 345.33864177183426 
+            xmax = 348.51537640016375 
+            text = "" 
+        intervals [144]:
+            xmin = 348.51537640016375 
+            xmax = 349.6390163092818 
+            text = "HFC" 
+        intervals [145]:
+            xmin = 349.6390163092818 
+            xmax = 350.9355238967257 
+            text = "" 
+        intervals [146]:
+            xmin = 350.9355238967257 
+            xmax = 353.06344269897494 
+            text = "HFC" 
+        intervals [147]:
+            xmin = 353.06344269897494 
+            xmax = 359.84288504050824 
+            text = "" 
+        intervals [148]:
+            xmin = 359.84288504050824 
+            xmax = 361.1023495540252 
+            text = "HFC" 
+        intervals [149]:
+            xmin = 361.1023495540252 
+            xmax = 361.84732692966753 
+            text = "" 
+        intervals [150]:
+            xmin = 361.84732692966753 
+            xmax = 363.4360632114242 
+            text = "HFC" 
+        intervals [151]:
+            xmin = 363.4360632114242 
+            xmax = 369.8831802598192 
+            text = "" 
+        intervals [152]:
+            xmin = 369.8831802598192 
+            xmax = 370.8545319761264 
+            text = "HFC" 
+        intervals [153]:
+            xmin = 370.8545319761264 
+            xmax = 376.1752800275251 
+            text = "" 
+        intervals [154]:
+            xmin = 376.1752800275251 
+            xmax = 377.43474454104205 
+            text = "LFC" 
+        intervals [155]:
+            xmin = 377.43474454104205 
+            xmax = 379.7032527188341 
+            text = "" 
+        intervals [156]:
+            xmin = 379.7032527188341 
+            xmax = 382.4526719836358 
+            text = "HFC" 
+        intervals [157]:
+            xmin = 382.4526719836358 
+            xmax = 384.3088970465158 
+            text = "" 
+        intervals [158]:
+            xmin = 384.3088970465158 
+            xmax = 385.43665285273687 
+            text = "HFC" 
+        intervals [159]:
+            xmin = 385.43665285273687 
+            xmax = 394.0562701669015 
+            text = "" 
+        intervals [160]:
+            xmin = 394.0562701669015 
+            xmax = 395.83845361249905 
+            text = "HFC" 
+        intervals [161]:
+            xmin = 395.83845361249905 
+            xmax = 397.4813454306356 
+            text = "" 
+        intervals [162]:
+            xmin = 397.4813454306356 
+            xmax = 398.75727353256457 
+            text = "HFC" 
+        intervals [163]:
+            xmin = 398.75727353256457 
+            xmax = 400.3171985346002 
+            text = "" 
+        intervals [164]:
+            xmin = 400.3171985346002 
+            xmax = 401.35852050165835 
+            text = "HFC" 
+        intervals [165]:
+            xmin = 401.35852050165835 
+            xmax = 402.6470762013454 
+            text = "" 
+        intervals [166]:
+            xmin = 402.6470762013454 
+            xmax = 404.0547130105702 
+            text = "HFC" 
+        intervals [167]:
+            xmin = 404.0547130105702 
+            xmax = 404.81203807752155 
+            text = "" 
+        intervals [168]:
+            xmin = 404.81203807752155 
+            xmax = 405.98918464897855 
+            text = "HFC" 
+        intervals [169]:
+            xmin = 405.98918464897855 
+            xmax = 408.4967392957649 
+            text = "" 
+        intervals [170]:
+            xmin = 408.4967392957649 
+            xmax = 409.97846225284366 
+            text = "HFC" 
+        intervals [171]:
+            xmin = 409.97846225284366 
+            xmax = 414.87254381475555 
+            text = "" 
+        intervals [172]:
+            xmin = 414.87254381475555 
+            xmax = 416.3707303602463 
+            text = "HFC" 
+        intervals [173]:
+            xmin = 416.3707303602463 
+            xmax = 425.0095403507012 
+            text = "" 
+        intervals [174]:
+            xmin = 425.0095403507012 
+            xmax = 426.1578756424372 
+            text = "HFC" 
+        intervals [175]:
+            xmin = 426.1578756424372 
+            xmax = 427.51200578932304 
+            text = "" 
+        intervals [176]:
+            xmin = 427.51200578932304 
+            xmax = 429.84571944672206 
+            text = "HFC" 
+        intervals [177]:
+            xmin = 429.84571944672206 
+            xmax = 437.75943814243715 
+            text = "" 
+        intervals [178]:
+            xmin = 437.75943814243715 
+            xmax = 439.5457374851377 
+            text = "HFC" 
+        intervals [179]:
+            xmin = 439.5457374851377 
+            xmax = 451.99993955949896 
+            text = "" 
+        intervals [180]:
+            xmin = 451.99993955949896 
+            xmax = 454.6217660141077 
+            text = "HFC" 
+        intervals [181]:
+            xmin = 454.6217660141077 
+            xmax = 458.8154516638978 
+            text = "" 
+        intervals [182]:
+            xmin = 458.8154516638978 
+            xmax = 459.9802505440458 
+            text = "HFC" 
+        intervals [183]:
+            xmin = 459.9802505440458 
+            xmax = 460.5153171674354 
+            text = "" 
+        intervals [184]:
+            xmin = 460.5153171674354 
+            xmax = 463.65986255412474 
+            text = "HFC" 
+        intervals [185]:
+            xmin = 463.65986255412474 
+            xmax = 469.75745278578546 
+            text = "" 
+        intervals [186]:
+            xmin = 469.75745278578546 
+            xmax = 471.0251490935084 
+            text = "HFC" 
+        intervals [187]:
+            xmin = 471.0251490935084 
+            xmax = 479.87386983621616 
+            text = "" 
+        intervals [188]:
+            xmin = 479.87386983621616 
+            xmax = 481.3514768961919 
+            text = "HFC" 
+        intervals [189]:
+            xmin = 481.3514768961919 
+            xmax = 482.67267986625376 
+            text = "" 
+        intervals [190]:
+            xmin = 482.67267986625376 
+            xmax = 484.00623052762467 
+            text = "HFC" 
+        intervals [191]:
+            xmin = 484.00623052762467 
+            xmax = 505.41274417688095 
+            text = "" 
+        intervals [192]:
+            xmin = 505.41274417688095 
+            xmax = 507.1578845485515 
+            text = "HFC" 
+        intervals [193]:
+            xmin = 507.1578845485515 
+            xmax = 517.9585583597124 
+            text = "" 
+        intervals [194]:
+            xmin = 517.9585583597124 
+            xmax = 518.8969828991956 
+            text = "HFC" 
+        intervals [195]:
+            xmin = 518.8969828991956 
+            xmax = 522.2284103711936 
+            text = "" 
+        intervals [196]:
+            xmin = 522.2284103711936 
+            xmax = 524.084679964645 
+            text = "HFC" 
+        intervals [197]:
+            xmin = 524.084679964645 
+            xmax = 531.8588262264503 
+            text = "" 
+        intervals [198]:
+            xmin = 531.8588262264503 
+            xmax = 532.7272805151827 
+            text = "HFC" 
+        intervals [199]:
+            xmin = 532.7272805151827 
+            xmax = 542.1710950915796 
+            text = "" 
+        intervals [200]:
+            xmin = 542.1710950915796 
+            xmax = 543.1712580876077 
+            text = "HFC" 
+        intervals [201]:
+            xmin = 543.1712580876077 
+            xmax = 550.8860714437257 
+            text = "" 
+        intervals [202]:
+            xmin = 550.8860714437257 
+            xmax = 551.643396510677 
+            text = "HFC" 
+        intervals [203]:
+            xmin = 551.643396510677 
+            xmax = 559.6168179796712 
+            text = "" 
+        intervals [204]:
+            xmin = 559.6168179796712 
+            xmax = 561.5389419267706 
+            text = "HFC" 
+        intervals [205]:
+            xmin = 561.5389419267706 
+            xmax = 563.2305756361021 
+            text = "" 
+        intervals [206]:
+            xmin = 563.2305756361021 
+            xmax = 564.2183909408213 
+            text = "HFC" 
+        intervals [207]:
+            xmin = 564.2183909408213 
+            xmax = 564.9098171235532 
+            text = "" 
+        intervals [208]:
+            xmin = 564.9098171235532 
+            xmax = 566.350381109602 
+            text = "HFC" 
+        intervals [209]:
+            xmin = 566.350381109602 
+            xmax = 566.502669302413 
+            text = "" 
+        intervals [210]:
+            xmin = 566.502669302413 
+            xmax = 567.4122825621752 
+            text = "HFC" 
+        intervals [211]:
+            xmin = 567.4122825621752 
+            xmax = 571.3737667279521 
+            text = "" 
+        intervals [212]:
+            xmin = 571.3737667279521 
+            xmax = 572.6826220067051 
+            text = "HFC" 
+        intervals [213]:
+            xmin = 572.6826220067051 
+            xmax = 575.6082869117519 
+            text = "" 
+        intervals [214]:
+            xmin = 575.6082869117519 
+            xmax = 577.1105893543455 
+            text = "HFC" 
+        intervals [215]:
+            xmin = 577.1105893543455 
+            xmax = 594.279853731924 
+            text = "" 
+        intervals [216]:
+            xmin = 594.279853731924 
+            xmax = 595.9879510296677 
+            text = "HFC" 
+        intervals [217]:
+            xmin = 595.9879510296677 
+            xmax = 596.2884115181864 
+            text = "" 
+        intervals [218]:
+            xmin = 596.2884115181864 
+            xmax = 597.2515314402876 
+            text = "HFC" 
+        intervals [219]:
+            xmin = 597.2515314402876 
+            xmax = 599.3663646160439 
+            text = "" 
+        intervals [220]:
+            xmin = 599.3663646160439 
+            xmax = 600.7904650136808 
+            text = "HFC" 
+        intervals [221]:
+            xmin = 600.7904650136808 
+            xmax = 606.1935310071394 
+            text = "" 
+        intervals [222]:
+            xmin = 606.1935310071394 
+            xmax = 607.5723565366433 
+            text = "HFC" 
+        intervals [223]:
+            xmin = 607.5723565366433 
+            xmax = 608.8935595067051 
+            text = "" 
+        intervals [224]:
+            xmin = 608.8935595067051 
+            xmax = 610.8280311451134 
+            text = "HFC" 
+        intervals [225]:
+            xmin = 610.8280311451134 
+            xmax = 611.7245587783829 
+            text = "" 
+        intervals [226]:
+            xmin = 611.7245587783829 
+            xmax = 612.9552120121789 
+            text = "HFC" 
+        intervals [227]:
+            xmin = 612.9552120121789 
+            xmax = 613.9553750082069 
+            text = "" 
+        intervals [228]:
+            xmin = 613.9553750082069 
+            xmax = 615.5935020551996 
+            text = "HFC" 
+        intervals [229]:
+            xmin = 615.5935020551996 
+            xmax = 626.3025637578903 
+            text = "" 
+        intervals [230]:
+            xmin = 626.3025637578903 
+            xmax = 628.0230087469429 
+            text = "HFC" 
+        intervals [231]:
+            xmin = 628.0230087469429 
+            xmax = 638.2546709162574 
+            text = "" 
+        intervals [232]:
+            xmin = 638.2546709162574 
+            xmax = 639.3453836485515 
+            text = "HFC" 
+        intervals [233]:
+            xmin = 639.3453836485515 
+            xmax = 654.5699089102499 
+            text = "" 
+        intervals [234]:
+            xmin = 654.5699089102499 
+            xmax = 655.4671744787031 
+            text = "HFC" 
+        intervals [235]:
+            xmin = 655.4671744787031 
+            xmax = 656.7760297574561 
+            text = "" 
+        intervals [236]:
+            xmin = 656.7760297574561 
+            xmax = 658.3194911710798 
+            text = "HFC" 
+        intervals [237]:
+            xmin = 658.3194911710798 
+            xmax = 687.489191100057 
+            text = "" 
+        intervals [238]:
+            xmin = 687.489191100057 
+            xmax = 688.4111520511282 
+            text = "HFC" 
+        intervals [239]:
+            xmin = 688.4111520511282 
+            xmax = 689.2631427514485 
+            text = "" 
+        intervals [240]:
+            xmin = 689.2631427514485 
+            xmax = 690.4320575286995 
+            text = "HFC" 
+        intervals [241]:
+            xmin = 690.4320575286995 
+            xmax = 708.8168538303153 
+            text = "" 
+        intervals [242]:
+            xmin = 708.8168538303153 
+            xmax = 709.6976558103565 
+            text = "HFC" 
+        intervals [243]:
+            xmin = 709.6976558103565 
+            xmax = 710.426169597587 
+            text = "" 
+        intervals [244]:
+            xmin = 710.426169597587 
+            xmax = 711.8049951270908 
+            text = "HFC" 
+        intervals [245]:
+            xmin = 711.8049951270908 
+            xmax = 712.3225357898641 
+            text = "" 
+        intervals [246]:
+            xmin = 712.3225357898641 
+            xmax = 713.7589838788099 
+            text = "HFC" 
+        intervals [247]:
+            xmin = 713.7589838788099 
+            xmax = 713.7713315701188 
+            text = "" 
+        intervals [248]:
+            xmin = 713.7713315701188 
+            xmax = 715.1295776141077 
+            text = "HFC" 
+        intervals [249]:
+            xmin = 715.1295776141077 
+            xmax = 765.695568245441 
+            text = "" 
+        intervals [250]:
+            xmin = 765.695568245441 
+            xmax = 766.6134132994092 
+            text = "HFC" 
+        intervals [251]:
+            xmin = 766.6134132994092 
+            xmax = 770.8746645490925 
+            text = "" 
+        intervals [252]:
+            xmin = 770.8746645490925 
+            xmax = 771.8336685740907 
+            text = "HFC" 
+        intervals [253]:
+            xmin = 771.8336685740907 
+            xmax = 772.9079177179729 
+            text = "" 
+        intervals [254]:
+            xmin = 772.9079177179729 
+            xmax = 774.1632663343868 
+            text = "HFC" 
+        intervals [255]:
+            xmin = 774.1632663343868 
+            xmax = 779.7930311055308 
+            text = "" 
+        intervals [256]:
+            xmin = 779.7930311055308 
+            xmax = 780.784962307353 
+            text = "HFC" 
+        intervals [257]:
+            xmin = 780.784962307353 
+            xmax = 781.4682012264503 
+            text = "" 
+        intervals [258]:
+            xmin = 781.4682012264503 
+            xmax = 782.7894041965122 
+            text = "HFC" 
+        intervals [259]:
+            xmin = 782.7894041965122 
+            xmax = 798.1802765885758 
+            text = "" 
+        intervals [260]:
+            xmin = 798.1802765885758 
+            xmax = 799.4232775136808 
+            text = "HFC" 
+        intervals [261]:
+            xmin = 799.4232775136808 
+            xmax = 857.8683929482311 
+            text = "" 
+        intervals [262]:
+            xmin = 857.8683929482311 
+            xmax = 858.5310523818135 
+            text = "HFC" 
+        intervals [263]:
+            xmin = 858.5310523818135 
+            xmax = 865.5948605910456 
+            text = "" 
+        intervals [264]:
+            xmin = 865.5948605910456 
+            xmax = 866.2081292593922 
+            text = "HFC" 
+        intervals [265]:
+            xmin = 866.2081292593922 
+            xmax = 867.570491200484 
+            text = "" 
+        intervals [266]:
+            xmin = 867.570491200484 
+            xmax = 869.8177710187201 
+            text = "HFC" 
+        intervals [267]:
+            xmin = 869.8177710187201 
+            xmax = 870.3682388583172 
+            text = "" 
+        intervals [268]:
+            xmin = 870.3682388583172 
+            xmax = 871.899352580632 
+            text = "HFC" 
+        intervals [269]:
+            xmin = 871.899352580632 
+            xmax = 883.5201077569222 
+            text = "" 
+        intervals [270]:
+            xmin = 883.5201077569222 
+            xmax = 884.5778933123923 
+            text = "HFC" 
+        intervals [271]:
+            xmin = 884.5778933123923 
+            xmax = 902.7143935091751 
+            text = "" 
+        intervals [272]:
+            xmin = 902.7143935091751 
+            xmax = 903.5746160037014 
+            text = "HFC" 
+        intervals [273]:
+            xmin = 903.5746160037014 
+            xmax = 906.1428912653997 
+            text = "" 
+        intervals [274]:
+            xmin = 906.1428912653997 
+            xmax = 907.8839157399673 
+            text = "HFC" 
+        intervals [275]:
+            xmin = 907.8839157399673 
+            xmax = 915.1542122089616 
+            text = "" 
+        intervals [276]:
+            xmin = 915.1542122089616 
+            xmax = 916.0926367484448 
+            text = "HFC" 
+        intervals [277]:
+            xmin = 916.0926367484448 
+            xmax = 941.6538018208698 
+            text = "" 
+        intervals [278]:
+            xmin = 941.6538018208698 
+            xmax = 942.542835595117 
+            text = "HFC" 
+        intervals [279]:
+            xmin = 942.542835595117 
+            xmax = 945.0188498743042 
+            text = "" 
+        intervals [280]:
+            xmin = 945.0188498743042 
+            xmax = 946.1054467094953 
+            text = "HFC" 
+        intervals [281]:
+            xmin = 946.1054467094953 
+            xmax = 947.0850302200084 
+            text = "" 
+        intervals [282]:
+            xmin = 947.0850302200084 
+            xmax = 947.9864116855647 
+            text = "HFC" 
+        intervals [283]:
+            xmin = 947.9864116855647 
+            xmax = 965.3148092409353 
+            text = "" 
+        intervals [284]:
+            xmin = 965.3148092409353 
+            xmax = 966.4384491500534 
+            text = "HFC" 
+        intervals [285]:
+            xmin = 966.4384491500534 
+            xmax = 981.1368329871806 
+            text = "" 
+        intervals [286]:
+            xmin = 981.1368329871806 
+            xmax = 981.951780613574 
+            text = "HFC" 
+        intervals [287]:
+            xmin = 981.951780613574 
+            xmax = 982.7708441370703 
+            text = "" 
+        intervals [288]:
+            xmin = 982.7708441370703 
+            xmax = 984.2072922260161 
+            text = "HFC" 
+        intervals [289]:
+            xmin = 984.2072922260161 
+            xmax = 984.9398773797781 
+            text = "" 
+        intervals [290]:
+            xmin = 984.9398773797781 
+            xmax = 986.4586434107838 
+            text = "HFC" 
+        intervals [291]:
+            xmin = 986.4586434107838 
+            xmax = 986.5203818673288 
+            text = "" 
+        intervals [292]:
+            xmin = 986.5203818673288 
+            xmax = 988.8870227015517 
+            text = "HFC" 
+        intervals [293]:
+            xmin = 988.8870227015517 
+            xmax = 989.7201006320308 
+            text = "" 
+        intervals [294]:
+            xmin = 989.7201006320308 
+            xmax = 991.2553302514485 
+            text = "HFC" 
+        intervals [295]:
+            xmin = 991.2553302514485 
+            xmax = 992.6835465461884 
+            text = "" 
+        intervals [296]:
+            xmin = 992.6835465461884 
+            xmax = 993.6343187769805 
+            text = "HFC" 
+        intervals [297]:
+            xmin = 993.6343187769805 
+            xmax = 994.1422408363229 
+            text = "" 
+        intervals [298]:
+            xmin = 994.1422408363229 
+            xmax = 995.23706946572 
+            text = "HFC" 
+        intervals [299]:
+            xmin = 995.23706946572 
+            xmax = 995.7968314717275 
+            text = "" 
+        intervals [300]:
+            xmin = 995.7968314717275 
+            xmax = 997.467885695544 
+            text = "HFC" 
+        intervals [301]:
+            xmin = 997.467885695544 
+            xmax = 1023.3318713767743 
+            text = "" 
+        intervals [302]:
+            xmin = 1023.3318713767743 
+            xmax = 1024.1097759292406 
+            text = "HFC" 
+        intervals [303]:
+            xmin = 1024.1097759292406 
+            xmax = 1025.8960752719413 
+            text = "" 
+        intervals [304]:
+            xmin = 1025.8960752719413 
+            xmax = 1027.270784904342 
+            text = "HFC" 
+        intervals [305]:
+            xmin = 1027.270784904342 
+            xmax = 1035.4685005001638 
+            text = "" 
+        intervals [306]:
+            xmin = 1035.4685005001638 
+            xmax = 1036.3204912004842 
+            text = "HFC" 
+        intervals [307]:
+            xmin = 1036.3204912004842 
+            xmax = 1036.9831506340665 
+            text = "" 
+        intervals [308]:
+            xmin = 1036.9831506340665 
+            xmax = 1038.4195987230123 
+            text = "HFC" 
+        intervals [309]:
+            xmin = 1038.4195987230123 
+            xmax = 1040.9751564258095 
+            text = "" 
+        intervals [310]:
+            xmin = 1040.9751564258095 
+            xmax = 1041.9300445537049 
+            text = "HFC" 
+        intervals [311]:
+            xmin = 1041.9300445537049 
+            xmax = 1042.0494055696918 
+            text = "" 
+        intervals [312]:
+            xmin = 1042.0494055696918 
+            xmax = 1043.3171018774146 
+            text = "HFC" 
+        intervals [313]:
+            xmin = 1043.3171018774146 
+            xmax = 1043.9221387515552 
+            text = "" 
+        intervals [314]:
+            xmin = 1043.9221387515552 
+            xmax = 1046.642746736636 
+            text = "HFC" 
+        intervals [315]:
+            xmin = 1046.642746736636 
+            xmax = 1053.8989397375044 
+            text = "" 
+        intervals [316]:
+            xmin = 1053.8989397375044 
+            xmax = 1054.8949868364296 
+            text = "HFC" 
+        intervals [317]:
+            xmin = 1054.8949868364296 
+            xmax = 1055.9321929063847 
+            text = "" 
+        intervals [318]:
+            xmin = 1055.9321929063847 
+            xmax = 1057.0311374328849 
+            text = "HFC" 
+        intervals [319]:
+            xmin = 1057.0311374328849 
+            xmax = 1057.2369322880347 
+            text = "" 
+        intervals [320]:
+            xmin = 1057.2369322880347 
+            xmax = 1058.4264265508007 
+            text = "HFC" 
+        intervals [321]:
+            xmin = 1058.4264265508007 
+            xmax = 1059.2701400263436 
+            text = "" 
+        intervals [322]:
+            xmin = 1059.2701400263436 
+            xmax = 1061.7355623910387 
+            text = "HFC" 
+        intervals [323]:
+            xmin = 1061.7355623910387 
+            xmax = 1066.9263129813867 
+            text = "" 
+        intervals [324]:
+            xmin = 1066.9263129813867 
+            xmax = 1068.1322708325647 
+            text = "HFC" 
+        intervals [325]:
+            xmin = 1068.1322708325647 
+            xmax = 1068.2516318485516 
+            text = "" 
+        intervals [326]:
+            xmin = 1068.2516318485516 
+            xmax = 1069.6675004519825 
+            text = "HFC" 
+        intervals [327]:
+            xmin = 1069.6675004519825 
+            xmax = 1081.295100613254 
+            text = "" 
+        intervals [328]:
+            xmin = 1081.295100613254 
+            xmax = 1082.8879527921135 
+            text = "HFC" 
+        intervals [329]:
+            xmin = 1082.8879527921135 
+            xmax = 1172.1693820453343 
+            text = "" 
+        intervals [330]:
+            xmin = 1172.1693820453343 
+            xmax = 1172.9308230093886 
+            text = "HFC" 
+        intervals [331]:
+            xmin = 1172.9308230093886 
+            xmax = 1189.7903772626096 
+            text = "" 
+        intervals [332]:
+            xmin = 1189.7903772626096 
+            xmax = 1190.654715654239 
+            text = "HFC" 
+        intervals [333]:
+            xmin = 1190.654715654239 
+            xmax = 1197.250373965934 
+            text = "" 
+        intervals [334]:
+            xmin = 1197.250373965934 
+            xmax = 1197.8307154574563 
+            text = "HFC" 
+        intervals [335]:
+            xmin = 1197.8307154574563 
+            xmax = 1232.513961727632 
+            text = "" 
+        intervals [336]:
+            xmin = 1232.513961727632 
+            xmax = 1233.6458334309561 
+            text = "HFC" 
+        intervals [337]:
+            xmin = 1233.6458334309561 
+            xmax = 1426.4732398630365 
+            text = "" 
+        intervals [338]:
+            xmin = 1426.4732398630365 
+            xmax = 1427.6997771997296 
+            text = "HFC" 
+        intervals [339]:
+            xmin = 1427.6997771997296 
+            xmax = 1432.0810828700123 
+            text = "" 
+        intervals [340]:
+            xmin = 1432.0810828700123 
+            xmax = 1433.9867432286999 
+            text = "HFC" 
+        intervals [341]:
+            xmin = 1433.9867432286999 
+            xmax = 1497.8198478775219 
+            text = "" 
+        intervals [342]:
+            xmin = 1497.8198478775219 
+            xmax = 1498.898212918507 
+            text = "HFC" 
+        intervals [343]:
+            xmin = 1498.898212918507 
+            xmax = 1508.2219730743045 
+            text = "" 
+        intervals [344]:
+            xmin = 1508.2219730743045 
+            xmax = 1509.2715268355687 
+            text = "HFC" 
+        intervals [345]:
+            xmin = 1509.2715268355687 
+            xmax = 1515.3698550024133 
+            text = "" 
+        intervals [346]:
+            xmin = 1515.3698550024133 
+            xmax = 1516.0160508475838 
+            text = "HFC" 
+        intervals [347]:
+            xmin = 1516.0160508475838 
+            xmax = 1523.7812728105703 
+            text = "" 
+        intervals [348]:
+            xmin = 1523.7812728105703 
+            xmax = 1524.9049127196884 
+            text = "HFC" 
+        intervals [349]:
+            xmin = 1524.9049127196884 
+            xmax = 1534.4845519004841 
+            text = "" 
+        intervals [350]:
+            xmin = 1534.4845519004841 
+            xmax = 1535.5659704663678 
+            text = "HFC" 
+        intervals [351]:
+            xmin = 1535.5659704663678 
+            xmax = 1542.211712947911 
+            text = "" 
+        intervals [352]:
+            xmin = 1542.211712947911 
+            xmax = 1543.7839856412559 
+            text = "HFC" 
+        intervals [353]:
+            xmin = 1543.7839856412559 
+            xmax = 1547.8778719189409 
+            text = "" 
+        intervals [354]:
+            xmin = 1547.8778719189409 
+            xmax = 1549.2690451397539 
+            text = "HFC" 
+        intervals [355]:
+            xmin = 1549.2690451397539 
+            xmax = 1550.4503076083138 
+            text = "" 
+        intervals [356]:
+            xmin = 1550.4503076083138 
+            xmax = 1552.5000243656061 
+            text = "HFC" 
+        intervals [357]:
+            xmin = 1552.5000243656061 
+            xmax = 1559.821747283102 
+            text = "" 
+        intervals [358]:
+            xmin = 1559.821747283102 
+            xmax = 1561.142950253164 
+            text = "HFC" 
+        intervals [359]:
+            xmin = 1561.142950253164 
+            xmax = 1615.6179807601397 
+            text = "" 
+        intervals [360]:
+            xmin = 1615.6179807601397 
+            xmax = 1616.556405299623 
+            text = "HFC" 
+        intervals [361]:
+            xmin = 1616.556405299623 
+            xmax = 1626.8144740978007 
+            text = "" 
+        intervals [362]:
+            xmin = 1626.8144740978007 
+            xmax = 1627.670580695224 
+            text = "HFC" 
+        intervals [363]:
+            xmin = 1627.670580695224 
+            xmax = 1800 
+            text = "" 
