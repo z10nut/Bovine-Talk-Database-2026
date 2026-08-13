@@ -1,0 +1,58 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 1800 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "separare_vitel_0006" 
+        xmin = 0 
+        xmax = 1800 
+        intervals: size = 11 
+        intervals [1]:
+            xmin = 0 
+            xmax = 72.69029632696855 
+            text = "" 
+        intervals [2]:
+            xmin = 72.69029632696855 
+            xmax = 74.10551208692759 
+            text = "HFC" 
+        intervals [3]:
+            xmin = 74.10551208692759 
+            xmax = 84.7299211682474 
+            text = "" 
+        intervals [4]:
+            xmin = 84.7299211682474 
+            xmax = 85.99795448917071 
+            text = "HFC" 
+        intervals [5]:
+            xmin = 85.99795448917071 
+            xmax = 97.7488753154179 
+            text = "" 
+        intervals [6]:
+            xmin = 97.7488753154179 
+            xmax = 99.31127351441269 
+            text = "HFC" 
+        intervals [7]:
+            xmin = 99.31127351441269 
+            xmax = 1732.1885440855876 
+            text = "" 
+        intervals [8]:
+            xmin = 1732.1885440855876 
+            xmax = 1733.411290502192 
+            text = "HFC" 
+        intervals [9]:
+            xmin = 1733.411290502192 
+            xmax = 1741.5675632981433 
+            text = "" 
+        intervals [10]:
+            xmin = 1741.5675632981433 
+            xmax = 1742.8752226603456 
+            text = "HFC" 
+        intervals [11]:
+            xmin = 1742.8752226603456 
+            xmax = 1800 
+            text = "" 
