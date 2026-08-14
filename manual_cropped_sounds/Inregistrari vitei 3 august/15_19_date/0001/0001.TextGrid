@@ -1,0 +1,86 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 1800 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "anticipare_lapte_vitei_15.19_0001" 
+        xmin = 0 
+        xmax = 1800 
+        intervals: size = 18 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1589.0490096676424 
+            text = "" 
+        intervals [2]:
+            xmin = 1589.0490096676424 
+            xmax = 1591.0755986359038 
+            text = "HFC" 
+        intervals [3]:
+            xmin = 1591.0755986359038 
+            xmax = 1591.4670661027972 
+            text = "" 
+        intervals [4]:
+            xmin = 1591.4670661027972 
+            xmax = 1592.4746997238879 
+            text = "HFC" 
+        intervals [5]:
+            xmin = 1592.4746997238879 
+            xmax = 1639.0085313965703 
+            text = "" 
+        intervals [6]:
+            xmin = 1639.0085313965703 
+            xmax = 1640.5199818282065 
+            text = "HFC" 
+        intervals [7]:
+            xmin = 1640.5199818282065 
+            xmax = 1642.676770646384 
+            text = "" 
+        intervals [8]:
+            xmin = 1642.676770646384 
+            xmax = 1643.967447419467 
+            text = "HFC" 
+        intervals [9]:
+            xmin = 1643.967447419467 
+            xmax = 1645.72179953959 
+            text = "" 
+        intervals [10]:
+            xmin = 1645.72179953959 
+            xmax = 1646.435068282609 
+            text = "LFC" 
+        intervals [11]:
+            xmin = 1646.435068282609 
+            xmax = 1649.3730562002843 
+            text = "" 
+        intervals [12]:
+            xmin = 1649.3730562002843 
+            xmax = 1650.2561508344986 
+            text = "HFC" 
+        intervals [13]:
+            xmin = 1650.2561508344986 
+            xmax = 1653.2332493712258 
+            text = "" 
+        intervals [14]:
+            xmin = 1653.2332493712258 
+            xmax = 1654.648465131185 
+            text = "HFC" 
+        intervals [15]:
+            xmin = 1654.648465131185 
+            xmax = 1655.5768466697182 
+            text = "HFC" 
+        intervals [16]:
+            xmin = 1655.5768466697182 
+            xmax = 1734.9972000704909 
+            text = "" 
+        intervals [17]:
+            xmin = 1734.9972000704909 
+            xmax = 1737.0068064496327 
+            text = "HFC" 
+        intervals [18]:
+            xmin = 1737.0068064496327 
+            xmax = 1800 
+            text = "" 

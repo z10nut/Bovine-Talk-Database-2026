@@ -1,0 +1,58 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 63 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "anticipare_lapte_vitei_15.19_0002" 
+        xmin = 0 
+        xmax = 63 
+        intervals: size = 11 
+        intervals [1]:
+            xmin = 0 
+            xmax = 22.986898527209448 
+            text = "" 
+        intervals [2]:
+            xmin = 22.986898527209448 
+            xmax = 24.849322466570584 
+            text = "HFC" 
+        intervals [3]:
+            xmin = 24.849322466570584 
+            xmax = 27.29996132701304 
+            text = "" 
+        intervals [4]:
+            xmin = 27.29996132701304 
+            xmax = 28.211360276062106 
+            text = "HFC" 
+        intervals [5]:
+            xmin = 28.211360276062106 
+            xmax = 41.439767525215196 
+            text = "" 
+        intervals [6]:
+            xmin = 41.439767525215196 
+            xmax = 42.58892272184228 
+            text = "HFC" 
+        intervals [7]:
+            xmin = 42.58892272184228 
+            xmax = 44.25270162006225 
+            text = "" 
+        intervals [8]:
+            xmin = 44.25270162006225 
+            xmax = 45.628291338192206 
+            text = "HFC" 
+        intervals [9]:
+            xmin = 45.628291338192206 
+            xmax = 46.862359480382864 
+            text = "" 
+        intervals [10]:
+            xmin = 46.862359480382864 
+            xmax = 47.61525426437992 
+            text = "LFC" 
+        intervals [11]:
+            xmin = 47.61525426437992 
+            xmax = 63 
+            text = "" 
