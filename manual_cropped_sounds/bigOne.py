@@ -1,14 +1,30 @@
+import argparse
 import re
 import sys
 from pathlib import Path
 import pandas as pd
 
-root = Path(sys.argv[1] if len(sys.argv) > 1 else ".")
-out = Path(sys.argv[2] if len(sys.argv) > 2 else "merged.xlsx")
-
 # Change to "{prefix}{n}.wav" if you don't want the underscore,
 # or use "{prefix}_{n:03d}.wav" for zero padding (HFC_001.wav).
 NAME_FORMAT = "{prefix}_{n}.wav"
+
+ap = argparse.ArgumentParser(
+    description="Merge every output.xlsx under a root folder into one Excel "
+                "file, written inside that same root folder."
+)
+ap.add_argument("-r", "--root", type=Path, default=Path.cwd(),
+                help="root folder to scan (default: current folder)")
+ap.add_argument("-o", "--out", default="merged.xlsx",
+                help="name of the merged file, created inside the root "
+                     "(default: merged.xlsx)")
+args = ap.parse_args()
+
+root = args.root.expanduser().resolve()
+if not root.is_dir():
+    sys.exit(f"Not a folder: {root}")
+
+out = root / args.out          # always written inside the root folder
+print(f"Scanning {root}\n")
 
 files = sorted(root.rglob("output.xlsx"))
 if not files:
@@ -22,13 +38,13 @@ for f in files:
     headers[f] = list(df.columns)
     df.columns = range(df.shape[1])
     frames.append(df)
-    print(f, len(df), f"({df.shape[1]} cols)")
+    print(f.relative_to(root), len(df), f"({df.shape[1]} cols)")
 
 # The widest file defines the final column layout.
 ncols = max(len(c) for c in headers.values())
 widest = next(f for f in files if len(headers[f]) == ncols)
 final_cols = headers[widest]
-print(f"\nUsing {ncols} columns, header taken from {widest}")
+print(f"\nUsing {ncols} columns, header taken from {widest.relative_to(root)}")
 
 # Report where a file's column name disagrees with the reference at the same
 # position, so you can check that positional filling did the right thing.
@@ -36,9 +52,9 @@ for f, cols in headers.items():
     for i, name in enumerate(cols):
         ref = final_cols[i]
         if str(name).startswith("Unnamed:") or str(ref).startswith("Unnamed:"):
-            print(f"  CHECK {f}: position {i} is '{name}', reference is '{ref}'")
+            print(f"  CHECK {f.relative_to(root)}: position {i} is '{name}', reference is '{ref}'")
         elif name != ref:
-            print(f"  WARN  {f}: position {i} is '{name}', reference is '{ref}'")
+            print(f"  WARN  {f.relative_to(root)}: position {i} is '{name}', reference is '{ref}'")
 
 # Missing trailing columns become empty cells.
 frames = [df.reindex(columns=range(ncols)) for df in frames]
